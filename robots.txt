@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iladeija.github.io/KDw/sitemap_index.txt
+Sitemap: https://iladeija.github.io/Wxm/sitemap_index.txt
+Sitemap: https://iladeija.github.io/fNa/sitemap_index.txt
+Sitemap: https://iladeija.github.io/fvG/sitemap_index.txt
